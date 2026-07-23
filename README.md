@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
