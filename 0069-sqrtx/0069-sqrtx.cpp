@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int mySqrt(int x) {
+        long long i;
+        if(x==0 || x==1){
+            return x;
+        }
+        for( i=0;i<=x/2;i++){
+            if(i*i>x){
+                return i-1;
+            }
+            else if(i*i==x){
+                return i;
+            }
+        }
+        return i-1;
+    }
+};
