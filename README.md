@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
