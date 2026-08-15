@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1952-three-divisors) |
