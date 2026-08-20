@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
