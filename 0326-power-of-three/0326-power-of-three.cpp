@@ -4,13 +4,11 @@ public:
         if(n<=0){
             return false;
         }
-        
-        int p;
-        for(int i=0;i<=19;i++){
-            p=pow(3,i);
-            if(p==n){
-                return true;
-            }
+        while(n%3==0){
+            n=n/3;
+        }
+        if(n==1){
+            return true;
         }
         return false;
     }
