@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0507-perfect-number) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Prefix Sum
 |  |
