@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1952-three-divisors) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anushka280502/Leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
