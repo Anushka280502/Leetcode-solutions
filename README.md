@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0383-ransom-note) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
