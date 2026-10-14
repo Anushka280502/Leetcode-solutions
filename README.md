@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0326-power-of-three) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1952-three-divisors) |
 ## Prime Factorization
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anushka280502/Leetcode-solutions/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/Anushka280502/Leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushka280502/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
